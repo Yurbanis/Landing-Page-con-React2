@@ -21,9 +21,6 @@ const Nabvar = (props) => {
                             <li className="nav-item">
                                 <a className="nav-link" href="#">{props.title4}</a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link disabled">{props.title4}</a>
-                            </li>
                         </ul>
                     </div>
                 </div>
