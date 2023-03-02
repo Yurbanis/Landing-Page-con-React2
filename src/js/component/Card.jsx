@@ -24,15 +24,7 @@ Card.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
   label: PropTypes.string,
-  title1: PropTypes.string,
-  description1: PropTypes.string,
-  label1: PropTypes.string,
-  title2: PropTypes.string,
-  description2: PropTypes.string,
-  label2: PropTypes.string,
-  title3: PropTypes.string,
-  description3: PropTypes.string,
-  label3: PropTypes.string,
+ 
 };
 
 export default Card;
